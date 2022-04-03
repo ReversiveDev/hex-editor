@@ -1,0 +1,117 @@
+* {
+    user-select: none;
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.tool_bar {
+    background-color: darkgray;
+    padding: 0;
+    margin: 0;
+    height: 100px;
+    width: 1400px;
+    position: absolute;
+
+}
+
+#hex-view {
+    position: relative;
+    /* top: 130px; */
+    background-color: black;
+    border: 2px solid black;
+    color: rgb(27, 185, 74);
+}
+
+.button_toolbar {
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    background-color: darkgray;
+    border: 0;
+    margin-left: 30px;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/91/91773.png");
+    background-size: contain;
+    color: white;
+    font-size: 12px;
+    top: 20px;
+}
+.button_toolbar2 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/62/62319.png?w=2000");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    background-color: darkgray;
+    background-size: contain;
+    top: 20px;
+
+    margin-left: 150px;
+}
+.button_toolbar3 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/74/74921.png");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    background-size: contain;
+    top: 20px;
+
+    background-color: darkgray;
+    margin-left: 300px; 
+}
+
+.button_toolbar4 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/102/102558.png");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    border-radius: 50%;
+    background-size: contain;
+    top: 20px;
+
+    background-color: darkgray;
+    
+    margin-left: 450px;
+}
+.button_toolbar5 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/102/102559.png");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    border-radius: 50%;
+    background-size: contain;
+    top: 20px;
+
+    background-color: darkgray;
+    margin-left: 600px;
+}
+.button_toolbar6 {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/69/69886.png");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    background-size: contain;
+    top: 20px;
+
+    background-color: darkgray;
+    margin-left: 750px;
+}
+.button_toolbar7 { 
+    background-image: url("https://cdn-icons-png.flaticon.com/512/1373/1373419.png");
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    border: 0;
+    background-size: contain;
+    top: 20px;
+    background-color: darkgray;
+    margin-left: 900px; 
+}
